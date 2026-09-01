@@ -24,7 +24,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm a **Computer Information Systems graduate from Sana'a University** passionate about turning real-world problems into practical software solutions.
+I'm a **Computer Information Systems graduate** passionate about turning real-world problems into practical software solutions.
 
 My main focus is **Full-Stack Web Development**, with hands-on experience in **Laravel, Vue.js, MySQL, and RESTful APIs**, alongside experience in **Flutter** and **AI & Machine Learning**.
 
